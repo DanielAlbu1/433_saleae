@@ -1,0 +1,13 @@
+{
+  "name": "433",
+  "apiVersion": "1.0.0",
+  "author": "LZX",
+  "version": "0.0.1",
+  "description": "EV1527",
+  "extensions": {
+    "433": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
